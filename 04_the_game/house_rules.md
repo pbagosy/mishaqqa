@@ -10,7 +10,7 @@ Weapon come in various grades:
 | Superior   | x10     | 10%          | +1 to hit (non-magical)            |
 | Masterwork | x20     | 5%           | +1 to hit and damage (non-magical) |
 
-Magical weapons can only be made from masterworks. Masterwork bonuses are not cumulative - a Longsword +1 is still +1 to hit and damage, but it is now magical. For every +1 (including the base) or special property, the break chance reduces by 1%, to a minimum of 1%. For example, a Longsword +1 has a 4% break chance.
+Magical weapons can only be made from masterworks. Masterwork bonuses are not cumulative - a +1 Longsword is still +1 to hit and damage, but it is now magical. For every +1 (including the base) or special property, the break chance reduces by 1%, to a minimum of 1%. For example, a Longsword +1 has a 4% break chance.
 
 ## Armor
 Armor has a chance of losing its effectiveness if it sustains enough damage.  Each time the wearer loses a cumulative* amount of damage equal to 50% of their maximum HP, roll percentile dice. If the number is less than or equal to the reduction chance, the armor’s AC bonus is reduced by 1. If the armor reaches +0 to AC, it is destroyed. Masterwork and magical armor can be reforged by a master armorer, but broken magical armor loses its magical properties when it is destroyed.
@@ -30,11 +30,11 @@ Armor comes in various grades:
 | Superior   | x5      | 10%              | +1 to max DEX bonus. -5% Arcane Spell Failure chance (minimum 0%)                                      |
 | Masterwork | x10     | 5%               | +1 to max DEX bonus, +1 to armor check penalty (max 0), -10% Arcane Spell Failure chance (minimum 0%). |
 
-Magical armor can only be made from masterworks. Magical armor keeps the masterwork bonuses (and therefore all . For every +1 to AC or special property, lower the reduction chance by 1%, to a minimum of 1%.
+Magical armor can only be made from masterworks. Magical armor keeps the masterwork bonuses. For each +1 to AC or special property, lower the reduction chance by 1%, to a minimum of 1%.
 
 ## New Weapons
-Haladie - A double-edged dagger consisting of two blades, attached to a single hilt.
-Khopesh - a sickle-shaped sword that evolved from the battle axe.
+- **Haladie:** A double-edged dagger consisting of two blades, attached to a single hilt.
+- **Khopesh:** A sickle-shaped sword that evolved from the battle axe.
 	
 | Name    | Cost | Dmg (S) | Dmg (M) | Critical | Range | Weight | Type   | Special |
 | ------- | ---- | ------- | ------- | -------- | ----- | ------ | ------ | ------- |
@@ -51,13 +51,11 @@ Natural 20s never need to be confirmed. If a weapon has a critical range greater
 ## Firing Into Combat
 When firing at a target that is within 5 feet of another target, on a miss, roll a d6 and, starting from the hex directly above the target and count hexes clockwise. If that hex is occupied, make another attack roll against that target.
 
-
 ## Health Potion Benefits
-sing a full-round action to drink a healing potion gives the full effect of the potion. Do not roll, simply regain the maximum possible hit points.
-
+Using a full-round action to drink a healing potion provides the full effect of the potion. Do not roll, simply recover the maximum possible hit points that the potion could provide.
 
 ## Melee Critical Failure
-When rolling a 1 for a melee weapon attack, your defense slips and you are vulnerable to an Attack of Opportunity from opponents in any threatening hex.
+When a natural 1 is rolled for a melee weapon attack, your defense slips and you are vulnerable to an Attack of Opportunity from opponents in any threatening hex.
 
 ## Ranged Critical Failure
-When rolling a 1 for a ranged weapon attack with a weapon with a string (bow, crossbow), the string breaks and must be replaced before it can be fired again (assuming the weapon doesn’t break, as above in Weapons). The attack fails completely and the ammunition is not spent. If a thrown weapon does not hit another target (as described in Firing Into Combat) it travels harmlessly a number of feet equal to 10 times your STR modifier in the direction it was thrown, unless impeded by a wall or other blocking object.
+When a natural 1 is rolled for a ranged weapon attack with a weapon with a string (bow, crossbow), the string breaks and must be replaced before it can be fired again (assuming the weapon itself doesn’t break, as above in [Weapons](#weapons)). The attack fails completely and the ammunition is not spent. If a thrown weapon does not hit another target (as described in [Firing Into Combat](#firing-into-combat)) it travels harmlessly a number of feet equal to 10 times your STR modifier in the direction it was thrown, unless impeded by a wall or other blocking object.
