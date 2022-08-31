@@ -4,7 +4,7 @@ The Konun Oluhiyat are not gods in the traditional sense. The people of the worl
 These beings have left a number of powerful artifacts that allow them to communicate more directly, which they use on rare occasions to push mortals toward their mysterious ends. These artifacts are powerful constructs that have become sacred relics. Each corresponds to an aspect of the Konun Oluhiyat.
 
 ## Alignment
-The Konun Oluhiyat have no alignment, per se, and can be assumed to be True Neutral. Each worshiper experiences them differently, and will attribute alignment to them as they interpret them.
+The Konun Oluhiyat have no alignment, *per se* (except for Zhas'ni), and can be assumed to be True Neutral. Each worshiper experiences them differently, and will attribute alignment to them as they interpret them.
 
 ## Worshippers
 Nearly everyone is a worshiper of the Konun Oluhiyat to some degree. The names they have been given are known to most, and most people consider one aspect to represent them above the others.  All of their names, however, are invoked in daily conversation, as blessings, curses, or simple entreaties that the powers look favorably upon endeavors or turn their eyes away.
@@ -18,4 +18,4 @@ Clerics select an aspect of the Konun Oluhiyat that they are invested to exempli
 Paladins also select an aspect. Most paladins are invested by the Penitent Simurgh, though any can be chosen. Druids, however, are always invested by the Rampant Lion.
 
 ## Favored Weapon
-Clerics are proficient in their aspect’s favored weapon. Paladins tend to prefer their aspect's favored weapon, but are not otherwise bound to it. Druids follow the same rules for weapons.
+Clerics are proficient in their aspect’s favored weapon.

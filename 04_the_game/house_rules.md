@@ -32,7 +32,7 @@ Armor comes in various grades:
 
 Magical armor can only be made from masterworks. Magical armor keeps the masterwork bonuses (and therefore all . For every +1 to AC or special property, lower the reduction chance by 1%, to a minimum of 1%.
 
-New Weapons
+## New Weapons
 Haladie - A double-edged dagger consisting of two blades, attached to a single hilt.
 Khopesh - a sickle-shaped sword that evolved from the battle axe.
 	
