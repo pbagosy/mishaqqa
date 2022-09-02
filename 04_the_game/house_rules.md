@@ -13,11 +13,11 @@ Weapon come in various grades:
 Magical weapons can only be made from masterworks. Masterwork bonuses are not cumulative - a +1 Longsword is still +1 to hit and damage, but it is now magical. For every +1 (including the base) or special property, the break chance reduces by 1%, to a minimum of 1%. For example, a Longsword +1 has a 4% break chance.
 
 ## Armor
-Armor has a chance of losing its effectiveness if it sustains enough damage.  Each time the wearer loses a cumulative* amount of damage equal to 50% of their maximum HP, roll percentile dice. If the number is less than or equal to the reduction chance, the armor’s AC bonus is reduced by 1. If the armor reaches +0 to AC, it is destroyed. Masterwork and magical armor can be reforged by a master armorer, but broken magical armor loses its magical properties when it is destroyed.
+Armor has a chance of losing its effectiveness if it sustains enough damage.  Each time the wearer loses a cumulative **†** amount of damage equal to 50% of their maximum HP, roll percentile dice. If the number is less than or equal to the reduction chance, the armor’s AC bonus is reduced by 1. If the armor reaches +0 to AC, it is destroyed. Masterwork and magical armor can be reforged by a master armorer, but broken magical armor loses its magical properties when it is destroyed.
 
 Repairing armor that is damaged but not destroyed takes 1 hour per point of bonus to AC with the appropriate tools. One point can be restored during an 8-hour rest on a successful Craft (Armor) check at DC 10 + Max AC bonus. Other relevant checks may be substituted (i.e., Profession (Leatherworker) for leather armor, Profession (Blacksmith) for plate, etc.).
 
-* It is assumed that lightly damaged armor can be tended to during an 8-hour rest with the appropriate tools, so only count this cumulative damage since that point. I.e., if a character with 50 HP max loses 25, roll for reduction. If they heal, and then lose another 25 HP, roll again. If they lose 10 more HP and then have a long rest, that 10 HP does not carry over and the cumulative damage starts again at 0.
+**†** It is assumed that lightly damaged armor can be tended to during an 8-hour rest with the appropriate tools, so only count this cumulative damage since that point. I.e., if a character with 50 HP max loses 25, roll for reduction. If they heal, and then lose another 25 HP, roll again. If they lose 10 more HP and then have a long rest, that 10 HP does not carry over and the cumulative damage starts again at 0.
 
 
 If using both a shield and armor and a reduction check is called for, roll d2. On a 1, the shield must make the check, on a 2, the armor must make the check. If only using a shield, the shield always makes the check when called for.
@@ -58,4 +58,9 @@ Using a full-round action to drink a healing potion provides the full effect of 
 When a natural 1 is rolled for a melee weapon attack, your defense slips and you are vulnerable to an Attack of Opportunity from opponents in any threatening hex.
 
 ## Ranged Critical Failure
-When a natural 1 is rolled for a ranged weapon attack with a weapon with a string (bow, crossbow), the string breaks and must be replaced before it can be fired again (assuming the weapon itself doesn’t break, as above in [Weapons](#weapons)). The attack fails completely and the ammunition is not spent. If a thrown weapon does not hit another target (as described in [Firing Into Combat](#firing-into-combat)) it travels harmlessly a number of feet equal to 10 times your STR modifier in the direction it was thrown, unless impeded by a wall or other blocking object.
+When a natural 1 is rolled for a ranged weapon attack with a weapon with a string (bow, crossbow), the string breaks and must be replaced before it can be fired again (assuming the weapon itself doesn’t break, as above in [Weapons](#weapons)). The attack fails completely and the ammunition is not spent.
+
+If a thrown weapon does not hit another target (as described in [Firing Into Combat](#firing-into-combat)) it travels harmlessly a number of feet equal to 10 times your STR modifier in the direction it was thrown, unless impeded by a wall or other blocking object.
+
+## Languages
+Most people in Mishaqqa know at least two languages, and begin play speaking their native tongue (per their ancestry) and one other [common language](../languages_of_mishaqqa.md#common-languages). Exceptions can be made for backstory.
